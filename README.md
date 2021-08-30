@@ -14,10 +14,13 @@ from banks to news websites, and present a major challenge to making sure people
 
 ##### INSTALLATION :
 
-* ``` git clone https://github.com/VivekBro143/DDos-Attacks ```
-* ```cd DDos-Attack```
-* ```chmod +x ddos-attack.py```
-* ```python ddos-attack.py```
+``` git clone https://github.com/VivekBro143/DDos-Attacks ```
+
+```cd DDos-Attack```
+
+```chmod +x ddos-attack.py```
+
+```python ddos-attack.py```
 
 
 
