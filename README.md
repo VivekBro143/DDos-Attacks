@@ -19,8 +19,3 @@ git clone https://github.com/VivekBro143/DDos-Attacks
 cd DDos-Attacks
 chmod +x ddos-attack.py
 python2 ddos-attack.py
-
-
-
-
-
