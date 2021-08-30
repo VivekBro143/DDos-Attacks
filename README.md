@@ -16,7 +16,7 @@ from banks to news websites, and present a major challenge to making sure people
 
 ```
 git clone https://github.com/VivekBro143/DDos-Attacks
-cd DDos-Attack
+cd DDos-Attacks
 chmod +x ddos-attack.py
 python ddos-attack.py ```
 
