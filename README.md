@@ -11,7 +11,14 @@ from banks to news websites, and present a major challenge to making sure people
 ![IMG_20210831_030545](https://github.com/VivekBro143/DDos-Attacks/blob/a947178bcef52f86d65fe89377e4d0967ff04612/IMG_20210831_030545.jpg)
 
 
-### Download&Install
+## INSTALLATION :
+
+* `apt-get update -y`
+* `apt-get upgrade -y`
+* `pkg install python -y`
+* `pkg install python2 -y`
+* `pkg install git -y`
+* `pip install lolcat`
 
 ### git clone https://github.com/VivekBro143/DDos-Attacks
 
