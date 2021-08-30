@@ -12,7 +12,7 @@ from banks to news websites, and present a major challenge to making sure people
 ![IMG_20210831_030545](https://github.com/VivekBro143/DDos-Attacks/blob/a947178bcef52f86d65fe89377e4d0967ff04612/IMG_20210831_030545.jpg)
 
 
-## INSTALLATION :
+##### INSTALLATION :
 
 * ```git clone https://github.com/VivekBro143/DDos-Attacks```
 * `cd DDos-Attack`
