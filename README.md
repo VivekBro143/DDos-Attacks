@@ -9,7 +9,7 @@ by overwhelming it with traffic from multiple sources. They target a wide variet
 from banks to news websites, and present a major challenge to making sure people can publish and access important information
 
 
-![IMG_20210831_030545](https://github.com/VivekBro143/DDos-Attacks/blob/a947178bcef52f86d65fe89377e4d0967ff04612/IMG_20210831_030545.jpg)
+![IMG_20210907_123207](https://github.com/VivekBro143/DDos-Attacks/blob/75f1fc4a0dafbb7ad67d54e4ecaa38ea37ad48fc/IMG_20210907_123207.jpg)
 
 
 ##### INSTALLATION :
